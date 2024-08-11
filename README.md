@@ -1,6 +1,7 @@
 # MNIST Recognition Project
 
-![MNIST GIF](image_processing20190826-2795-5y3Jjg.gif)
+![MNIST GIF](./image_processing20190826-2795-5y3Jjg.gif)
+
 
 
 This project demonstrates a machine learning model for recognizing handwritten digits using the MNIST dataset. The model is implemented using PyTorch and trained on the MNIST dataset to classify digits from 0 to 9.
