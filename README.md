@@ -1,6 +1,6 @@
 # MoodWave
 
-![MoodWave](https://cdn.dribbble.com/users/319371/screenshots/7050507/media/425a3dacb0db3753ce4e6cfbf7039e82.gif)
+<img src="https://cdn.dribbble.com/users/319371/screenshots/7050507/media/425a3dacb0db3753ce4e6cfbf7039e82.gif" alt="MoodWave" width="600"/>
 
 **MoodWave** is a deep learning-based expression classifier built using PyTorch. This project is designed to recognize facial expressions from images and is trained on a dataset that contains several classes of emotions.
 
