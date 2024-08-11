@@ -1,7 +1,3 @@
-Here's a `README.md` file for your project, including the GIF you want to use:
-
----
-
 # MoodWave
 
 ![MoodWave](https://cdn.dribbble.com/users/319371/screenshots/7050507/media/425a3dacb0db3753ce4e6cfbf7039e82.gif)
